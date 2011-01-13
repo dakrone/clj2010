@@ -1,0 +1,16 @@
+=============
+clj2010
+=============
+Some statistics on #clojure (from http://clojure-log.n01se.net)
+
+Usage
+=====
+`lein run` should produce everything in `charts`.
+
+Add your own jobs to `*jobs*` and run them.
+
+License
+=======
+Copyright (C) 2010 Miki Tebeka <miki.tebeka@gmail.com>
+
+Distributed under the Eclipse Public License, the same as Clojure.
